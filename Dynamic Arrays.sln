@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dinamic Arrays", "Dinamic Arrays\Dinamic Arrays.vcxproj", "{0C572E35-6FC4-400A-85F6-CC437050C585}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dynamic Arrays", "Dinamic Arrays\Dinamic Arrays.vcxproj", "{0C572E35-6FC4-400A-85F6-CC437050C585}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dynamic Arrays DZ", "Dynamic Arrays DZ\Dynamic Arrays DZ.vcxproj", "{80310E5C-4678-4355-B069-1B3B1DF6D377}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{0C572E35-6FC4-400A-85F6-CC437050C585}.Release|x64.Build.0 = Release|x64
 		{0C572E35-6FC4-400A-85F6-CC437050C585}.Release|x86.ActiveCfg = Release|Win32
 		{0C572E35-6FC4-400A-85F6-CC437050C585}.Release|x86.Build.0 = Release|Win32
+		{80310E5C-4678-4355-B069-1B3B1DF6D377}.Debug|x64.ActiveCfg = Debug|x64
+		{80310E5C-4678-4355-B069-1B3B1DF6D377}.Debug|x64.Build.0 = Debug|x64
+		{80310E5C-4678-4355-B069-1B3B1DF6D377}.Debug|x86.ActiveCfg = Debug|Win32
+		{80310E5C-4678-4355-B069-1B3B1DF6D377}.Debug|x86.Build.0 = Debug|Win32
+		{80310E5C-4678-4355-B069-1B3B1DF6D377}.Release|x64.ActiveCfg = Release|x64
+		{80310E5C-4678-4355-B069-1B3B1DF6D377}.Release|x64.Build.0 = Release|x64
+		{80310E5C-4678-4355-B069-1B3B1DF6D377}.Release|x86.ActiveCfg = Release|Win32
+		{80310E5C-4678-4355-B069-1B3B1DF6D377}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
